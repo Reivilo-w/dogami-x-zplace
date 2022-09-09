@@ -7,6 +7,8 @@
 // @match        https://place.zevent.fr/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
+// @downloadURL  https://github.com/Reivilo-w/dogami-x-zplace/raw/main/dogamixzplace.user.js
+// @updateURL    https://github.com/Reivilo-w/dogami-x-zplace/raw/main/dogamixzplace.user.js
 // ==/UserScript==
 
 const colors = [
