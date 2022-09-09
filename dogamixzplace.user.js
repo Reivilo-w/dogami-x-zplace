@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Dogami x zPlace
 // @namespace    http://tampermonkey.net/
-// @version      0.1.1
+// @version      0.1.2
 // @description  Petit calque pour créer le logo Dogami sur le Z Place
 // @author       Bt0 Reivilow
 // @match        https://place.zevent.fr/*
@@ -53,7 +53,7 @@ const requiredColors = [];
 
 const options = {
     OPACITY:  0.7,
-    STARTX: 380,
+    STARTX: 268,
     STARTY: 430,
     VERSION: GM_info.script.version,
 };
