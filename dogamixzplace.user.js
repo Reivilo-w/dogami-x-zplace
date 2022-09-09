@@ -53,8 +53,8 @@ const requiredColors = [];
 
 const options = {
     OPACITY:  0.7,
-    STARTX: 400,
-    STARTY: 450,
+    STARTX: 380,
+    STARTY: 430,
     VERSION: GM_info.script.version,
 };
 
