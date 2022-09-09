@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Dogami x zPlace
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.1.1
 // @description  Petit calque pour créer le logo Dogami sur le Z Place
 // @author       Bt0 Reivilow
 // @match        https://place.zevent.fr/*
